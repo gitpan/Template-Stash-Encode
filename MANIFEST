@@ -1,0 +1,12 @@
+Build.PL
+Changes
+lib/Template/Stash/Encode.pm
+MANIFEST
+META.yml			# Will be created by "make dist"
+README
+t/00-load.t
+t/01-shiftjis-utf8.t
+t/02-eucjp-utf8.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
