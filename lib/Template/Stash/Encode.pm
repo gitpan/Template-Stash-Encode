@@ -14,11 +14,11 @@ Template::Stash::Encode - Encode charactor code on stash variables
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
@@ -36,7 +36,7 @@ our $VERSION = '0.01';
 Constructor (See L<Template::Stash>).
 See below constructor parameter of hash reference.
 
-=over 4
+=over 2
 
 =item icode
 
@@ -62,7 +62,7 @@ sub new {
 
 =head2 get
 
-Overridden method.
+Override method.
 
 =cut
 
